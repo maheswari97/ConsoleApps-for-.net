@@ -3,3 +3,10 @@
 *.db-wal
 *.vsidx
 *.cs
+.vs/ConsoleApp1/DesignTimeBuild/.dtbcache.v2
+.vs/ConsoleApp1/v18/.futdcache.v2
+.vs/ConsoleApp1/v18/.suo
+.vs/ConsoleApp1/v18/DocumentLayout.json
+.vs/ProjectEvaluation/consoleapp1.metadata.v10.bin
+.vs/ProjectEvaluation/consoleapp1.projects.v10.bin
+.vs/ProjectEvaluation/consoleapp1.strings.v10.bin
